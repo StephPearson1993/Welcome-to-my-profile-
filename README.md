@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @StephPearson1993
-- 👀 I’m interested in Learning new skills ...
-- 🌱 I’m currently learning an Data course ...
-- 💞️ I’m looking to collaborate on my course materials ...
-- 📫 How to reach me Steph_wooding@hotmail.co.uk...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i love reading crime books...
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is steph pearson
+=====================================================================================================================================
 
-<!---
-StephPearson1993/StephPearson1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m currently learning an Data course
+-------------------------------------
+
+Here you will find an overview of my portfolio of work and the data analysis activities I have completed.
+
+*   🌍  I'm based in Coventry
+*   🖥️  See my portfolio at [StephPearson1993/Welcome-to-my-profile](http://github.com/StephPearson1993/Welcome-to-my-profile)
+*   ✉️  You can contact me at [steph\_wooding@hotmail.co.uk](mailto:steph_wooding@hotmail.co.uk)
