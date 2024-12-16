@@ -9,6 +9,7 @@ Here you will find an overview of my portfolio of work and the data analysis act
 *   🌍  I'm based in Coventry
 *   🖥️  See my portfolio at [StephPearson1993/Welcome-to-my-profile](http://github.com/StephPearson1993/Welcome-to-my-profile)
 *   ✉️  You can contact me at [steph\_wooding@hotmail.co.uk](mailto:steph_wooding@hotmail.co.uk)
+<p align="left"> <a href="https://www.github.com/steph pearson" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/steph pearson" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 ### Skills
 
 <p align="left">
