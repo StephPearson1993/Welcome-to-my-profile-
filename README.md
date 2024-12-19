@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png) 
+😀
 =====================================================================================================================================
 
 I have just completed a Digital Skills Bootcamp: Data Technician
