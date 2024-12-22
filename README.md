@@ -23,8 +23,16 @@ Here you will find an overview of my portfolio of work and the data analysis act
 *   🌍  I'm based in Coventry
 *   🖥️  See my portfolio at https://sites.google.com/view/stephanie-pearson
 <p align="left"> <a href="https://www.github.com/steph pearson" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/steph pearson" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-### Skills
+#Skills
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
+![python logo](https://github.com/user-attachments/assets/a20face6-aad0-4c11-b709-69be5172c07e)
+
+![SQL logo](https://github.com/user-attachments/assets/1ed2dc41-9d23-4322-8da2-cce67e626520)
+
+![Tableau logo](https://github.com/user-attachments/assets/ee7edfe5-8e3c-4e20-a395-26977de0d353)
+
+![azure logo](https://github.com/user-attachments/assets/4d4256c5-e29c-4b0f-8c90-6f383a231e33)
+
+![power bi logo](https://github.com/user-attachments/assets/999e9f53-ce2b-4b28-996c-e1e0beb6f13c)
+
+
