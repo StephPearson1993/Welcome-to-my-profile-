@@ -1,4 +1,4 @@
-😀
+![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/5a6f869a-ae34-4a94-a2d4-a0dfb8215848)
 =====================================================================================================================================
 
 I have just completed a Digital Skills Bootcamp: Data Technician
