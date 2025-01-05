@@ -3,7 +3,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Steph Pearson
 =====================================================================================================================================
 
-I have just completed a Digital Skills Bootcamp: Data Technician This 8-week intensive bootcamp covers the essential skills for a Data Technician, including: \* Data, Big Data, and Data Structures \* Data Architecture & Governance \* Data Analysis using MS Excel \* Introduction to Data Visualization with MS Excel, Tableau, and Power BI \* Data Analytics with Power BI (Module 4) \* Introduction to Databases and SQL Assignments \* Azure Fundamentals: \* Module 1: Core Data Concepts - Software, SaaS, Cloud \* Module 2: Relational Data in Azure (DB) \* Module 3: Non-relational Data in Azure - Access (DB) \* Module 4: Fundamentals of Data Analytics \* Data Analysis using Python, with Pandas, Matplotlib, and Seaborn
+#  I have just completed a Digital Skills Bootcamp: Data Technician This 8-week intensive bootcamp covers the essential skills for a Data Technician, including: \* Data, Big Data, and Data Structures \* Data Architecture & Governance \* Data Analysis using MS Excel \* Introduction to Data Visualization with
+
+##  MS Excel
+## Tableau 
+##  Power BI \* Data Analytics with Power BI (Module 4)
+##  Introduction to Databases and SQL Assignments \* Azure Fundamentals:
+##  Module 1: Core Data Concepts - Software, SaaS, Cloud 
+##  Module 2: Relational Data in Azure (DB) 
+##  Module 3: Non-relational Data in Azure - Access (DB) 
+##  Module 4: Fundamentals of Data Analytics 
+##  Data Analysis using Python, with Pandas, Matplotlib, and Seaborn
 
 *   🌍  I'm based in Coventry
 *   🖥️  See my portfolio at [Steph Pearson](http://sites.google.com/stephanie-pearson)
