@@ -14,14 +14,11 @@ I have just completed a Digital Skills Bootcamp: Data Technician This 8-week int
 #Skills
 
 
-![python logo](https://github.com/user-attachments/assets/a20face6-aad0-4c11-b709-69be5172c07e)
+### ![excel logo](https://github.com/user-attachments/assets/6b6ab4f1-0012-4c23-b561-81a42b276988)
 
-![SQL logo](https://github.com/user-attachments/assets/1ed2dc41-9d23-4322-8da2-cce67e626520)
-
-![Tableau logo](https://github.com/user-attachments/assets/ee7edfe5-8e3c-4e20-a395-26977de0d353)
-
-![azure logo](https://github.com/user-attachments/assets/4d4256c5-e29c-4b0f-8c90-6f383a231e33)
-
-![power bi logo](https://github.com/user-attachments/assets/999e9f53-ce2b-4b28-996c-e1e0beb6f13c)
-
+### ![Tableau logo](https://github.com/user-attachments/assets/ee7edfe5-8e3c-4e20-a395-26977de0d353)
+### ![powerBi logo](https://github.com/user-attachments/assets/0c3f0aca-5dd5-4dcc-92cc-2ba969516024)
+### ![SQL logo](https://github.com/user-attachments/assets/1ed2dc41-9d23-4322-8da2-cce67e626520)
+### ![azure logo](https://github.com/user-attachments/assets/4d4256c5-e29c-4b0f-8c90-6f383a231e33)
+### ![python logo](https://github.com/user-attachments/assets/a20face6-aad0-4c11-b709-69be5172c07e)
 
