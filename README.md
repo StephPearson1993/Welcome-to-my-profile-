@@ -2,26 +2,10 @@
 =====================================================================================================================================
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is :sparkles: ✨ Steph Pearson :sparkles: ✨
 =====================================================================================================================================
-<p style="color:red;">I have just completed a Digital Skills Bootcamp: Data Technician. This 8-week intensive bootcamp covers the essential skills for a Data Technician, including:</p>
+# I recently completed an intensive 8-week Digital Skills Bootcamp in Data with Just IT training. Eager to build on my existing skills and acquire new ones, I’m focused on advancing my career as a data analyst. My completed data projects, using Excel, SQL, Python, Tableau, and Power BI, are showcased herw my GitHub and my portfolio.
 
-<ul style="color:red;">
-  <li>Data, Big Data, and Data Structures</li>
-  <li>Data Architecture & Governance</li>
-  <li>Data Analysis using MS Excel</li>
-  <li>Introduction to Data Visualization with</li>
-</ul>
 
-<p style="color:red;">## MS Excel</p>
-<p style="color:red;">## Tableau</p>
-<p style="color:red;">## Power BI</p>
-<p style="color:red;">* Data Analytics with Power BI (Module 4)</p>
-<p style="color:red;">## Introduction to Databases and SQL Assignments</p>
-<p style="color:red;">* Azure Fundamentals:</p>
-<p style="color:red;">## Module 1: Core Data Concepts - Software, SaaS, Cloud</p>
-<p style="color:red;">## Module 2: Relational Data in Azure (DB)</p>
-<p style="color:red;">## Module 3: Non-relational Data in Azure - Access (DB)</p>
-<p style="color:red;">## Module 4: Fundamentals of Data Analytics</p>
-<p style="color:red;">## Data Analysis using Python, with Pandas, Matplotlib, and Seaborn</p>
+
 *   🌍  I'm based in Coventry
 *   🖥️  See my portfolio at [Steph Pearson](http://sites.google.com/stephanie-pearson) :tada: 🎉
 
