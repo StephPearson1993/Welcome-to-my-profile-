@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 *   🌍  I'm based in Coventry
-*   🖥️  See my portfolio at [Steph Pearson](http://sites.google.com/steph-pearson) :tada: 🎉
+*   🖥️  See my portfolio at [Steph Pearson]https://sites.google.com/view/stephanie-pearson/ :tada: 🎉
 
 # Socials
 
