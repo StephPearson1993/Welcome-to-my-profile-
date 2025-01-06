@@ -5,6 +5,26 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 # I recently completed an intensive 8-week Digital Skills Bootcamp in Data with Just IT training. Eager to build on my existing skills and acquire new ones, I’m focused on advancing my career as a data analyst. My completed data projects, using Excel, SQL, Python, Tableau, and Power BI, are showcased herw my GitHub and my portfolio.
 
 
+# Technical Skills
+## ❖ Data collection
+## ❖ Data analysis
+
+# Soft Skills
+## ❖	Communication skills 
+## ❖	Team player 
+## ❖	Problem-solving 
+## ❖	Self-motivated 
+## ❖	Time management 
+## ❖	Eye for detail
+## ❖	Keen to learn 	
+## ❖	Capable of working on own initiative 
+## ❖	Can use Microsoft Office  
+## ❖	A professional appearance 
+## ❖	Leadership 
+## ❖	Empathy
+## ❖	Curiosity 
+## ❖	numerical skills
+
 
 *   🌍  I'm based in Coventry
 * 🖥️  See my portfolio at [Steph Pearson](http://sites.google.com/view/stephanie-pearson) tada: 🎉
