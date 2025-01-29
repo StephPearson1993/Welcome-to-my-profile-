@@ -1,6 +1,6 @@
 ![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/5a6f869a-ae34-4a94-a2d4-a0dfb8215848)
 =====================================================================================================================================
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is :sparkles: ✨ Steph Pearson :sparkles: ✨
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is :sparkles: ✨ Steph Pearson :sparkles: ✨ 
 =====================================================================================================================================
 # I recently completed an intensive 8-week Digital Skills Bootcamp in Data with Just IT training. Eager to build on my existing skills and acquire new ones, I’m focused on advancing my career as a data analyst. My completed data projects, using Excel, SQL, Python, Tableau, and Power BI, are showcased herw my GitHub and my portfolio.
 
